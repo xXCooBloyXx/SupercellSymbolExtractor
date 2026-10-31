@@ -1,0 +1,1 @@
+# Supercell Symbol Extractor
